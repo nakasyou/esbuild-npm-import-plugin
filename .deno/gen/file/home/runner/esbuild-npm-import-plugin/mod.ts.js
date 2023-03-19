@@ -1,2 +1,0 @@
-export { default as npmPlugin } from "./src/index.ts";
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImZpbGU6Ly8vaG9tZS9ydW5uZXIvZXNidWlsZC1ucG0taW1wb3J0LXBsdWdpbi9tb2QudHMiXSwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IHtkZWZhdWx0IGFzIG5wbVBsdWdpbn0gZnJvbSBcIi4vc3JjL2luZGV4LnRzXCIiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsU0FBUSxXQUFXLFNBQVMsUUFBTyxpQkFBZ0IifQ==
