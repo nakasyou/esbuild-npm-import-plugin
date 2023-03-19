@@ -1,0 +1,1 @@
+export {default as npmPlugin} from "./src/index.ts"
