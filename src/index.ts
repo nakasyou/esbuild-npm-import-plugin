@@ -1,5 +1,7 @@
 import exits from "./exits.ts";
-export default function(){
+import { type Plugin } from "https://deno.land/x/esbuild@v0.17.11/mod.js";
+
+export default function() :Plugin{
   return {
     name:"esbuild-npm-import-plugin",
     setup(build){
